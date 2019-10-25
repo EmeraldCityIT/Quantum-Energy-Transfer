@@ -1,0 +1,2 @@
+# Quantum-Energy-Transfer
+Theoretical transfer of energy as photons of light via chemical bonds in fragmented crystal shards. As physical changes do not effect chemistry of a substance, a piece of crystal is still chemically bonded to the crystal growth from which it was broken. Using experiments with transfer of energy using light frequency, this project hopes to examine is power sources implanted in crystal growths will transfer energy to fragments physically broken from the main structure.
